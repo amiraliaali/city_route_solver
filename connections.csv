@@ -1,7 +1,8 @@
 origin;destination
 berlin;paris
 berlin;milan
+berlin;london
 paris;berlin
 milan;barcelona
-barcelona;berlin
-berlin;paris
+barcelona;london
+london;dubai
